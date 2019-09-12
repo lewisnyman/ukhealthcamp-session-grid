@@ -682,10 +682,9 @@ html {
   .mrs-ham {
     /* The background image is set in .env */
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: contain;
     text-indent: -9999em;
     overflow: hidden;
-    width: 160px;
     height: 56px;
     margin-bottom: 1.45rem;
   }
