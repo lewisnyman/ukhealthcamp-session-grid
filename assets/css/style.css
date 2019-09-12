@@ -635,7 +635,7 @@ html {
   }
   .timeslot__time {
     display: block;
-    background: #3d50a0;
+    background: #327E86;
     color: #fff;
     font-size: 20px;
     padding: .2rem .5rem;
@@ -693,7 +693,7 @@ html {
   }
   .full-session__key-info {
     display: block;
-    background: #3d50a0;
+    background: #327E86;
     color: #fff;
     font-size: 20px;
     padding: .2rem .5rem;
